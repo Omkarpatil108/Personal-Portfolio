@@ -41,6 +41,7 @@ color: white;
     display: flex;
     justify-content: space-between; 
     align-items: center;
+    margin:15px;
     /*padding:10px;*/
     /*height: 80px;*/
   }   
